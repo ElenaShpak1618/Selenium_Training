@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test1">
+		<parameter name="uname" value="Tester" />
+		<parameter name="upass" value="test" />
+		<classes>
+      <class name="com.spreecom.WebOrder_Login_Parameter"/>
+    </classes>
+	</test> <!-- Test -->
+	
+	  <test name="Test2">
+		<parameter name="uname" value="Tester" />
+		<parameter name="upass" value="test" />
+		<classes>
+			<class name="com.spreecom.Weborder_Login_Parameter"/>
+		</classes>
+	</test> <!-- Test -->
+	  <test name="Test3">
+		<parameter name="uname" value="Tester" />
+		<parameter name="upass" value="test" />
+		<classes>
+      <class name="com.spreecom.WebOrder_Login_Parameter"/>
+    </classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+       <class name="pk_Selenium.SmokeTest"/>
+       <class name="pk_Selenium.SmokeTest"/>
+       <class name="pk_Selenium.SmokeTest"/>
+       <class name="pk_Selenium.SmokeTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
